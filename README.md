@@ -43,10 +43,10 @@
 ## 🚀 Запуск проекта
 
 # Клонировать репозиторий
-git clone https://github.com/ТВОЙ_НИК/restaurant-landing.git
+git clone https://github.com/bakhtovar0924/restaurant_landing.git
 
 # Перейти в папку
-cd restaurant-landing
+cd restaurant_landing
 
 # Установить зависимости
 npm install
@@ -59,7 +59,7 @@ npm run build
 ---
 
 ## 📁 Структура проекта
-
+``
 restaurant-landing/
 ├── public/
 │   └── robots.txt
@@ -81,6 +81,7 @@ restaurant-landing/
 ├── index.html
 ├── vite.config.js
 └── package.json
+``
 ---
 
 ## 🎨 Дизайн
